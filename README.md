@@ -1,2 +1,2 @@
 # NoobPage
-Learning for fun
+Learning for fun. Trying to make it.
